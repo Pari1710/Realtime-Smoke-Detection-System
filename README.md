@@ -1,13 +1,12 @@
-Smoke Detection System with IoT Integration
 Overview
 This project implements a Smoke Detection System using an ESP8266 microcontroller, a gas sensor, a buzzer, and an OLED display. It integrates with the Blynk platform to allow real-time monitoring of gas levels and sends alerts if dangerous gas levels are detected.
 
 Features
-Real-time monitoring of gas levels via the gas sensor.
-Display gas values and status (Normal/High Alert) on an OLED screen.
-Visual alert using an OLED display.
-Sound alert through a buzzer when high gas levels are detected.
-IoT integration with Blynk for real-time status monitoring and control.
+-Real-time monitoring of gas levels via the gas sensor.
+-Display gas values and status (Normal/High Alert) on an OLED screen.
+-Visual alert using an OLED display.
+-Sound alert through a buzzer when high gas levels are detected.
+-IoT integration with Blynk for real-time status monitoring and control.
 Components Required
 ESP8266 (NodeMCU or similar): Microcontroller for WiFi connectivity.
 MQ Gas Sensor (or equivalent): To detect gas concentrations.
